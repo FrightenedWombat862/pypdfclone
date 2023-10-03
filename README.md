@@ -116,3 +116,6 @@ tests/test_xmp.py ...                                   [100%]
 
 ========== 232 passed, 1 xfailed, 1 warning in 4.52s ==========
 ```
+
+# CHANGELOG
+ - 2023/10/02 - Bump version to force rerun of CI/CD
